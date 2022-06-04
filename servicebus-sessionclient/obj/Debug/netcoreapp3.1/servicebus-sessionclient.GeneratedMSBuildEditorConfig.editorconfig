@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = servicebus_sessionclient
+build_property.ProjectDir = C:\Users\muraveen\source\repos\servicebus-sessionclient\servicebus-sessionclient\
